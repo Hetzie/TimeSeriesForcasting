@@ -1,0 +1,79 @@
+Date,Name,Type,Country Name,Country Code
+01-01-2023,New Year's Day,['Optional holiday'],India,IN
+14-01-2023,Makar Sankranti,"['Hinduism', 'Optional holiday']",India,IN
+14-01-2023,Lohri,['Observance'],India,IN
+15-01-2023,Pongal,"['Hinduism', 'Optional holiday']",India,IN
+22-01-2023,Lunar New Year,['Observance'],India,IN
+26-01-2023,Republic Day,['National holiday'],India,IN
+26-01-2023,Vasant Panchami,"['Hinduism', 'Optional holiday']",India,IN
+05-02-2023,Guru Ravidas Jayanti,['Optional holiday'],India,IN
+05-02-2023,Hazarat Ali's Birthday,['Optional holiday'],India,IN
+14-02-2023,Valentine's Day,['Observance'],India,IN
+15-02-2023,Maharishi Dayanand Saraswati Jayanti,['Optional holiday'],India,IN
+18-02-2023,Maha Shivaratri/Shivaratri,"['Hinduism', 'Optional holiday']",India,IN
+19-02-2023,Shivaji Jayanti,['Optional holiday'],India,IN
+07-03-2023,Dolyatra,['National holiday'],India,IN
+07-03-2023,Holika Dahana,['Optional holiday'],India,IN
+08-03-2023,Holi,"['National holiday', 'Hinduism']",India,IN
+2023-03-21T02:54:20+05:30,March Equinox,['Season'],India,IN
+22-03-2023,Chaitra Sukhladi,"['Hinduism', 'Optional holiday']",India,IN
+22-03-2023,Ugadi,"['Hinduism', 'Optional holiday']",India,IN
+22-03-2023,Gudi Padwa,"['Hinduism', 'Optional holiday']",India,IN
+24-03-2023,Ramadan Start,['Observance'],India,IN
+30-03-2023,Rama Navami,"['National holiday', 'Hinduism']",India,IN
+04-04-2023,Mahavir Jayanti,['National holiday'],India,IN
+06-04-2023,First day of Passover,['Observance'],India,IN
+06-04-2023,Maundy Thursday,"['Observance', 'Christian']",India,IN
+07-04-2023,Good Friday,['National holiday'],India,IN
+09-04-2023,Easter Day,['Optional holiday'],India,IN
+14-04-2023,Vaisakhi,['Optional holiday'],India,IN
+14-04-2023,Ambedkar Jayanti,['Observance'],India,IN
+14-04-2023,Ambedkar Jayanti,['National holiday'],India,IN
+15-04-2023,Mesadi / Vaisakhadi,['Optional holiday'],India,IN
+21-04-2023,Jamat Ul-Vida,['Optional holiday'],India,IN
+22-04-2023,Ramzan Id/Eid-ul-Fitar,['National holiday'],India,IN
+22-04-2023,Ramzan Id/Eid-ul-Fitar,"['Muslim', 'Common local holiday']",India,IN
+01-05-2023,International Worker's Day,['Observance'],India,IN
+05-05-2023,Buddha Purnima/Vesak,['National holiday'],India,IN
+09-05-2023,Birthday of Rabindranath,['Optional holiday'],India,IN
+14-05-2023,Mother's Day,['Observance'],India,IN
+18-06-2023,Father's Day,['Observance'],India,IN
+20-06-2023,Rath Yatra,"['Hinduism', 'Optional holiday']",India,IN
+2023-06-21T20:27:49+05:30,June Solstice,['Season'],India,IN
+29-06-2023,Bakrid/Eid ul-Adha,['National holiday'],India,IN
+03-07-2023,Guru Purnima,['Observance'],India,IN
+29-07-2023,Muharram/Ashura,['National holiday'],India,IN
+06-08-2023,Friendship Day,['Observance'],India,IN
+15-08-2023,Independence Day,['National holiday'],India,IN
+16-08-2023,Parsi New Year,['Optional holiday'],India,IN
+20-08-2023,Vinayaka Chathurthi,"['Hinduism', 'Optional holiday']",India,IN
+29-08-2023,Onam,"['Hinduism', 'Optional holiday']",India,IN
+30-08-2023,Raksha Bandhan (Rakhi),"['Hinduism', 'Optional holiday']",India,IN
+06-09-2023,Janmashtami (Smarta),"['Hinduism', 'Optional holiday']",India,IN
+07-09-2023,Janmashtami,"['National holiday', 'Hinduism']",India,IN
+19-09-2023,Ganesh Chaturthi/Vinayaka Chaturthi,"['Hinduism', 'Optional holiday']",India,IN
+2023-09-23T12:20:01+05:30,September Equinox,['Season'],India,IN
+28-09-2023,Milad un-Nabi/Id-e-Milad,['National holiday'],India,IN
+02-10-2023,Mahatma Gandhi Jayanti,['National holiday'],India,IN
+15-10-2023,First Day of Sharad Navratri,"['Observance', 'Hinduism']",India,IN
+20-10-2023,First Day of Durga Puja Festivities,"['Observance', 'Hinduism']",India,IN
+21-10-2023,Maha Saptami,['Optional holiday'],India,IN
+22-10-2023,Maha Ashtami,['Optional holiday'],India,IN
+23-10-2023,Maha Navami,['Optional holiday'],India,IN
+24-10-2023,Dussehra,"['National holiday', 'Hinduism']",India,IN
+28-10-2023,Maharishi Valmiki Jayanti,['Optional holiday'],India,IN
+31-10-2023,Halloween,['Observance'],India,IN
+01-11-2023,Karaka Chaturthi (Karva Chauth),"['Hinduism', 'Optional holiday']",India,IN
+12-11-2023,Naraka Chaturdasi,['Optional holiday'],India,IN
+12-11-2023,Diwali/Deepavali,"['National holiday', 'Hinduism']",India,IN
+13-11-2023,Govardhan Puja,['Optional holiday'],India,IN
+15-11-2023,Bhai Duj,"['Hinduism', 'Optional holiday']",India,IN
+19-11-2023,Chhat Puja (Pratihar Sashthi/Surya Sashthi),"['Hinduism', 'Optional holiday']",India,IN
+24-11-2023,Guru Tegh Bahadur's Martyrdom Day,['Optional holiday'],India,IN
+27-11-2023,Guru Nanak Jayanti,['National holiday'],India,IN
+08-12-2023,First Day of Hanukkah,['Observance'],India,IN
+15-12-2023,Last day of Hanukkah,['Observance'],India,IN
+2023-12-22T08:57:21+05:30,December Solstice,['Season'],India,IN
+24-12-2023,Christmas Eve,['Optional holiday'],India,IN
+25-12-2023,Christmas,['National holiday'],India,IN
+31-12-2023,New Year's Eve,['Observance'],India,IN

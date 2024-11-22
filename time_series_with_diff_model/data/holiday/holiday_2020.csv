@@ -1,0 +1,420 @@
+date,holiday,holiday_type,day
+01-01-2020,New Year's Day (R),Restricted,Wednesday
+02-01-2020,Guru Gobind Singh's Birthday (R),Restricted,Thursday
+13-01-2020,Lohri (R),Restricted,Monday
+15-01-2020,Makar Sankranti/Pongal (R),Restricted,Wednesday
+26-01-2020,Republic Day (G),Gazetted,Sunday
+30-01-2020,Basant Panchami / Sri Panchami (R),Restricted,Thursday
+09-02-2020,Guru Ravidas's Birthday (R),Restricted,Sunday
+18-02-2020,Swami Dayananda Saraswati Jayanti (R),Restricted,Tuesday
+19-02-2020,Shivaji Jayanti (R),Restricted,Wednesday
+21-02-2020,Maha Shivaratri (R),Restricted,Friday
+09-03-2020,Holika Dahan/Dolyatra/Hazarat Ali's Birthday (R),Restricted,Monday
+10-03-2020,Holi (G),Gazetted,Tuesday
+25-03-2020,Chaitra Sukladi/Gudi Padava/Ugadi/Cheti Chand (R),Restricted,Wednesday
+02-04-2020,Ram Navami (G),Gazetted,Thursday
+06-04-2020,Mahavir Jayanti (G),Gazetted,Monday
+10-04-2020,Good Friday (G),Gazetted,Friday
+12-04-2020,Easter Sunday (R),Restricted,Sunday
+13-04-2020,Vaisakhi/Vishu (R),Restricted,Monday
+14-04-2020,Mesadi/Vaisakhadi (Bengal)/Bahag Bihu (Assam) (R),Restricted,Tuesday
+07-05-2020,Buddha Purnima (G),Gazetted,Thursday
+08-05-2020,Guru Rabindranath's Birthday (R),Restricted,Friday
+22-05-2020,Jamat-Ul-Vida (R),Restricted,Friday
+25-05-2020,Id-ul- Fitr (G),Gazetted,Monday
+23-06-2020,Rath Yatra (R),Restricted,Tuesday
+01-08-2020,Id-ul-Zuha (Bakrid) (G),Gazetted,Saturday
+03-08-2020,Raksha Bandhan (R),Restricted,Monday
+11-08-2020,Janmashtami (Smarta) (R),Restricted,Tuesday
+12-08-2020,Janmashtami (G),Gazetted,Wednesday
+15-08-2020,Independence day (G),Gazetted,Saturday
+16-08-2020,Parsi New Year's day/ Nauraj (R),Restricted,Sunday
+22-08-2020,Vinayaka Chaturthi/Ganesh Chaturthi (R),Restricted,Saturday
+30-08-2020,Muharram (G),Gazetted,Sunday
+31-08-2020,Onam or Thiru Onam Day (R),Restricted,Monday
+02-10-2020,Mahatma Gandhi's Birthday (G),Gazetted,Friday
+23-10-2020,Dussehra (Maha Saptami) (Additional) (R),Restricted,Friday
+24-10-2020,Dussehra (Maha Ashtami) (Maha Navmi) (Additional) (R),Restricted,Saturday
+25-10-2020,Dussehra (G),Gazetted,Sunday
+26-10-2020,"Vijay Dashmi (Bengal, Kerala) (R)",Restricted,Monday
+30-10-2020,Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G),Gazetted,Friday
+31-10-2020,Maharishi Valmiki's Birthday (R),Restricted,Saturday
+04-11-2020,Karaka Chaturthi (Karva Chouth) (R),Restricted,Wednesday
+14-11-2020,Naraka Chaturdasi (R),Restricted,Saturday
+15-11-2020,Govardhan Puja (R),Restricted,Sunday
+16-11-2020,Bhai Duj (R),Restricted,Monday
+20-11-2020,Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R),Restricted,Friday
+24-11-2020,Guru Teg Bahadur's Martyrdom Day (R),Restricted,Tuesday
+30-11-2020,Guru Nanak's Birthday (G),Gazetted,Monday
+24-12-2020,Christmas Eve (R),Restricted,Thursday
+25-12-2020,Christmas Day (G),Gazetted,Friday
+01-01-2021,New Year's Day (R),Restricted,Friday
+13-01-2021,Lohri (R),Restricted,Wednesday
+14-01-2021,Makar Sankranti/Pongal (R),Restricted,Thursday
+20-01-2021,Guru Gobind Singh's Birthday (R),Restricted,Wednesday
+26-01-2021,Republic Day (G),Gazetted,Tuesday
+16-02-2021,Basant Panchami / Sri Panchami (R),Restricted,Tuesday
+19-02-2021,Shivaji Jayanti (R),Restricted,Friday
+26-02-2021,Hazarat Ali's Birthday (R),Restricted,Friday
+27-02-2021,Guru Ravidas's Birthday (R),Restricted,Saturday
+08-03-2021,Swami Dayananda Saraswati Jayanti (R),Restricted,Monday
+11-03-2021,Maha Shivaratri (R),Restricted,Thursday
+28-03-2021,Holika Dahan/Dolyatra (R),Restricted,Sunday
+29-03-2021,Holi (G),Gazetted,Monday
+02-04-2021,Good Friday (G),Gazetted,Friday
+04-04-2021,Easter Sunday (R),Restricted,Sunday
+13-04-2021,Chaitra Sukladi/ Gudi Padava/ Ugadi/Cheti Chand/ Vaisakhi/ Vishu (R),Restricted,Tuesday
+14-04-2021,Mesadi Tamil New Year's Day (R),Restricted,Wednesday
+15-04-2021,Vaisakhadi (Bengal)/ Bahag Bihu (Assam) (R),Restricted,Thursday
+21-04-2021,Ram Navami (G),Gazetted,Wednesday
+25-04-2021,Mahavir Jayanti (G),Gazetted,Sunday
+07-05-2021,Jamat-Ul-Vida (R),Restricted,Friday
+09-05-2021,Guru Rabindranath's Birthday (R),Restricted,Sunday
+14-05-2021,Id-ul- Fitr (G),Gazetted,Friday
+26-05-2021,Buddha Purnima (G),Gazetted,Wednesday
+12-07-2021,Rath Yatra (R),Restricted,Monday
+21-07-2021,Id-ul-Zuha (Bakrid) (G),Gazetted,Wednesday
+15-08-2021,Independence day (G),Gazetted,Sunday
+16-08-2021,Parsi New Year's day/ Nauraj (R),Restricted,Monday
+19-08-2021,Muharram (G),Gazetted,Thursday
+21-08-2021,Onam or Thiru Onam Day (R),Restricted,Saturday
+22-08-2021,Raksha Bandhan (R),Restricted,Sunday
+30-08-2021,Janmashtami (Smarta) (R),Restricted,Monday
+10-09-2021,Vinayaka Chaturthi/ Ganesh Chaturthi (R),Restricted,Friday
+02-10-2021,Mahatma Gandhi's Birthday (G),Gazetted,Saturday
+12-10-2021,Dussehra (Maha Saptami) (R),Restricted,Tuesday
+13-10-2021,Dussehra (Maha Ashtami) (R),Restricted,Wednesday
+14-10-2021,Dussehra (Maha Navmi) (R),Restricted,Thursday
+15-10-2021,Dussehra (G),Gazetted,Friday
+19-10-2021,Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G),Gazetted,Tuesday
+20-10-2021,Maharishi Valmiki's Birthday (R),Restricted,Wednesday
+24-10-2021,Karaka Chaturthi (Karva Chouth) (R),Restricted,Sunday
+04-11-2021,Naraka Chaturdasi (R),Restricted,Thursday
+05-11-2021,Govardhan Puja (R),Restricted,Friday
+06-11-2021,Bhai Duj (R),Restricted,Saturday
+10-11-2021,Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R),Restricted,Wednesday
+19-11-2021,Guru Nanak's Birthday (G),Gazetted,Friday
+24-11-2021,Guru Teg Bahadur's Martyrdom Day (R),Restricted,Wednesday
+24-12-2021,Christmas Eve (R),Restricted,Friday
+25-12-2021,Christmas Day (G),Gazetted,Saturday
+01-01-2022,Kagyed Dance,,Saturday
+01-01-2022,New Year's Day,,Saturday
+02-01-2022,Mannam Jayanthi,,Sunday
+03-01-2022,New Year Celebration,,Monday
+03-01-2022,Losoong/Namsoong,,Monday
+04-01-2022,Losoong/Namsoong,,Tuesday
+05-01-2022,Losoong/Namsoong,,Wednesday
+06-01-2022,Assam Special Holiday,,Thursday
+06-01-2022,Losoong/Namsoong,,Thursday
+07-01-2022,Assam Special Holiday,,Friday
+07-01-2022,Losoong/Namsoong,,Friday
+09-01-2022,Guru Gobind Singh Jayanti,,Sunday
+11-01-2022,Missionary Day,,Tuesday
+12-01-2022,Birthday of Swami Vivekananda,,Wednesday
+13-01-2022,Bhogi,,Thursday
+14-01-2022,Imoinu Iratpa,,Friday
+14-01-2022,Sankranti,,Friday
+14-01-2022,Bhogi,,Friday
+14-01-2022,Pongal,,Friday
+14-01-2022,Tusu Puja,,Friday
+15-01-2022,Gann-Ngai,,Saturday
+15-01-2022,Sankranti,,Saturday
+15-01-2022,Kanuma,,Saturday
+15-01-2022,Thiruvalluvar Day,,Saturday
+16-01-2022,Uzhavar Tirunal,,Sunday
+17-01-2022,Public Holiday (in lieu),,Monday
+18-01-2022,Thaipoosam,,Tuesday
+23-01-2022,Netaji Subhas Chandra Bose Jayanti,,Sunday
+25-01-2022,Statehood Day,,Tuesday
+25-01-2022,Gothar Bathou Sun,,Tuesday
+26-01-2022,Republic Day,,Wednesday
+31-01-2022,Me-dam-me-phi,,Monday
+02-02-2022,Sonam Lhosar,,Wednesday
+05-02-2022,Vasant Panchami,,Saturday
+15-02-2022,Imam Ali's Birthday,,Tuesday
+15-02-2022,Lui-Ngai-Ni,,Tuesday
+16-02-2022,Bir Chilarai Divas,,Wednesday
+16-02-2022,Guru Ravidas Jayanti,,Wednesday
+19-02-2022,Chahhtrapati Shivaji Maharaj Jayanti,,Saturday
+20-02-2022,Statehood Day,,Sunday
+20-02-2022,Mizoram State Day,,Sunday
+01-03-2022,Shab-I-Miraj,,Tuesday
+01-03-2022,Maha Shivratri,,Tuesday
+01-03-2022,Maha Shivratri,,Tuesday
+03-03-2022,Losar,,Thursday
+04-03-2022,Chapchar Kut,,Friday
+05-03-2022,Panchayati Raj Diwas,,Saturday
+17-03-2022,Holi Dahan,,Thursday
+18-03-2022,Yaosang,,Friday
+18-03-2022,Holi,,Friday
+18-03-2022,Holi Dahan,,Friday
+18-03-2022,Doljatra,,Friday
+19-03-2022,Holi Holiday,,Saturday
+19-03-2022,Holi,,Saturday
+19-03-2022,Yaosang 2nd Day,,Saturday
+21-03-2022,Nauroz,,Monday
+22-03-2022,Bihar Divas,,Tuesday
+23-03-2022,"Shaheedi Diwas of Bhagat Singh, Rajguru and Sukhdev",,Wednesday
+28-03-2022,Bakth Matha Karma Jayanthi,,Monday
+01-04-2022,Bank Holiday,,Friday
+01-04-2022,Odisha Day,,Friday
+02-04-2022,Ugadi,,Saturday
+02-04-2022,Gudi Padwa,,Saturday
+02-04-2022,Sajibu Nongma Panba,,Saturday
+02-04-2022,1st Navratra,,Saturday
+02-04-2022,Cheti Chand,,Saturday
+02-04-2022,Gudi Padwa,,Saturday
+04-04-2022,Sarhul,,Monday
+05-04-2022,Babu Jagjivan Ram Birthday,,Tuesday
+08-04-2022,Birthday of Sri Guru Nabha Dass Ji,,Friday
+10-04-2022,Ram Navami,,Sunday
+14-04-2022,Biju Festival,,Thursday
+14-04-2022,Bohag Bihu,,Thursday
+14-04-2022,Dr Ambedkar Jayanti,,Thursday
+14-04-2022,Mahavir Jayanti,,Thursday
+14-04-2022,Tamil New Year,,Thursday
+14-04-2022,Mahabishuba Sankranti,,Thursday
+14-04-2022,Bohag Bihu,,Thursday
+14-04-2022,Cheiraoba,,Thursday
+14-04-2022,Maundy Thursday,,Thursday
+14-04-2022,Vaisakhi,,Thursday
+15-04-2022,Bohag Bihu,,Friday
+15-04-2022,Bengali New Year,,Friday
+15-04-2022,Vishu,,Friday
+15-04-2022,Himachal Day,,Friday
+15-04-2022,Good Friday,,Friday
+16-04-2022,Bohag Bihu,,Saturday
+17-04-2022,Easter,,Sunday
+21-04-2022,Sati Sadhani Divas,,Thursday
+23-04-2022,Khongjom Day,,Saturday
+23-04-2022,Veer Kunvar Singh Jayanti,,Saturday
+23-04-2022,Garia Puja,,Saturday
+29-04-2022,Shab-I-Qadr,,Friday
+29-04-2022,Jumatul Bidah,,Friday
+01-05-2022,Maharashtra Day,,Sunday
+01-05-2022,Labour Day,,Sunday
+02-05-2022,Id-ul-Fitr,,Monday
+03-05-2022,Idul Fitr,,Tuesday
+03-05-2022,Parashurama Jayanti,,Tuesday
+03-05-2022,Basava Jayanthi,,Tuesday
+04-05-2022,Following Day Of Ramzan,,Wednesday
+07-05-2022,Birthday of Rabindra Nath Tagore,,Saturday
+09-05-2022,Birthday of Rabindra Nath Tagore,,Monday
+16-05-2022,Sikkim State Day,,Monday
+16-05-2022,Buddha Purnima,,Monday
+17-05-2022,Janmotsav of Sri Sri Madhav Dev,,Tuesday
+25-05-2022,Birthday of Kazi Nazrul Islam,,Wednesday
+30-05-2022,Savitri Amavasya,,Monday
+02-06-2022,Maharana Pratap Jayanti,,Thursday
+03-06-2022,Martyrdom Day of Sri Guru Arjun Dev Ji,,Friday
+09-06-2022,Birsa Munda Shahidi Diwas,,Thursday
+14-06-2022,Pahili Raja,,Tuesday
+14-06-2022,Saga Dawa,,Tuesday
+14-06-2022,Sant Guru Kabir Jayanti,,Tuesday
+15-06-2022,Guru Hargobind Ji's Birthday,,Wednesday
+15-06-2022,Raja Sankranti,,Wednesday
+15-06-2022,YMA Day,,Wednesday
+22-06-2022,Kharchi Puja,,Wednesday
+30-06-2022,Remna Ni,,Thursday
+01-07-2022,Ratha Yatra,,Friday
+06-07-2022,Ker Puja,,Wednesday
+06-07-2022,MHIP Day,,Wednesday
+09-07-2022,Id-ul-Ad'ha,,Saturday
+10-07-2022,Bakrid,,Sunday
+11-07-2022,Eid-ul-Azha Holiday,,Monday
+14-07-2022,Behdienkhlam,,Thursday
+16-07-2022,Harela,,Saturday
+17-07-2022,U Tirot Sing Day,,Sunday
+25-07-2022,Bonalu,,Monday
+28-07-2022,Hareli,,Thursday
+28-07-2022,Karkidaka Vavu,,Thursday
+31-07-2022,Martyrdom Day of Shaheed Udham Singh,,Sunday
+01-08-2022,Drukpa Tsheshi,,Monday
+08-08-2022,Ashura,,Monday
+09-08-2022,Adivasi Divas,,Tuesday
+09-08-2022,Ashura,,Tuesday
+11-08-2022,Raksha Bandhan,,Thursday
+11-08-2022,Jhulan Purnima,,Thursday
+13-08-2022,Patriot's Day,,Saturday
+15-08-2022,Independence Day,,Monday
+16-08-2022,De jure Transfer Day,,Tuesday
+16-08-2022,Parsi New Year,,Tuesday
+18-08-2022,Janmashtami,,Thursday
+19-08-2022,Janmashtami,,Friday
+20-08-2022,Sri Krishna Astami,,Saturday
+28-08-2022,Ayyankali Jayanthi,,Sunday
+29-08-2022,Tithi of Srimatna Sankardev,,Monday
+30-08-2022,Harithalika,,Tuesday
+31-08-2022,Ganesh Chaturthi,,Wednesday
+31-08-2022,Ganesh Chaturthi,,Wednesday
+31-08-2022,Vinayagar Chathurthi,,Wednesday
+01-09-2022,Ganesh Chaturthi (2nd Day) Holiday,,Thursday
+01-09-2022,Nuakhai,,Thursday
+05-09-2022,Ramdev Jayanti and Teja Dashmi,,Monday
+06-09-2022,Karam Puja,,Tuesday
+07-09-2022,First Onam,,Wednesday
+08-09-2022,Thiruvonam,,Thursday
+09-09-2022,Third Onam,,Friday
+10-09-2022,Sree Narayana Guru Jayanti,,Saturday
+10-09-2022,Fourth Onam,,Saturday
+14-09-2022,Tithi of Sri Sri Madhav Dev,,Wednesday
+17-09-2022,Vishvakarma Day,,Saturday
+21-09-2022,Sree Narayana Guru Samadhi,,Wednesday
+23-09-2022,Haryana Heroes' Martyrdom Day,,Friday
+25-09-2022,Mahalaya,,Sunday
+25-09-2022,Bathukamma Starting Day,,Sunday
+26-09-2022,Mera Chaoren Houba,,Monday
+26-09-2022,Maharaja Agrasen Jayanti,,Monday
+26-09-2022,Agarsain Jayanti,,Monday
+02-10-2022,Maha Saptami,,Sunday
+02-10-2022,Mahatma Gandhi Birthday,,Sunday
+03-10-2022,Durga Ashtami,,Monday
+04-10-2022,Navami of Durga Puja,,Tuesday
+04-10-2022,Navami of Durga Puja,,Tuesday
+04-10-2022,Nabami,,Tuesday
+04-10-2022,Ayudha Puja,,Tuesday
+04-10-2022,Durga Puja,,Tuesday
+05-10-2022,Janmostav of Srimatna Sankardev,,Wednesday
+05-10-2022,Vijaya Dashami,,Wednesday
+05-10-2022,Dussehra,,Wednesday
+05-10-2022,Durga Puja,,Wednesday
+06-10-2022,Following Day of Vijaya Dasami Holiday,,Thursday
+08-10-2022,Mawlid,,Saturday
+09-10-2022,Maharishi Valmiki Birthday,,Sunday
+09-10-2022,Mawlid,,Sunday
+09-10-2022,Lakshmi Puja,,Sunday
+14-10-2022,Friday after Eid e-Milad-un Nabi,,Friday
+18-10-2022,Kati Bihu,,Tuesday
+24-10-2022,Kali Puja,,Monday
+24-10-2022,Narak Chaturdashi,,Monday
+24-10-2022,Diwali,,Monday
+25-10-2022,Govardhan Puja,,Tuesday
+25-10-2022,Vishvakarma Day,,Tuesday
+25-10-2022,Bhai Bij,,Tuesday
+25-10-2022,Vishvakarma Day,,Tuesday
+25-10-2022,Diwali,,Tuesday
+26-10-2022,Vikram Samvat New Year,,Wednesday
+26-10-2022,Bhai Bij,,Wednesday
+26-10-2022,Accession Day,,Wednesday
+26-10-2022,Diwali,,Wednesday
+26-10-2022,Govardhan Puja,,Wednesday
+26-10-2022,Diwali,,Wednesday
+27-10-2022,Ningol Chakkouba,,Thursday
+30-10-2022,Chhath Puja,,Sunday
+31-10-2022,Sardar Patel's Birthday,,Monday
+31-10-2022,Chhath Puja Holiday,,Monday
+01-11-2022,Haryana Day,,Tuesday
+01-11-2022,Kannada Rajyothsava,,Tuesday
+01-11-2022,Puducherry Liberation Day,,Tuesday
+01-11-2022,Kut,,Tuesday
+08-11-2022,Guru Nanak's Birthday,,Tuesday
+08-11-2022,Rasa Purnima,,Tuesday
+11-11-2022,Kanakadasa Jayanthi,,Friday
+15-11-2022,Birsa Munda Birth Anniversary,,Tuesday
+23-11-2022,Seng Kut Snem,,Wednesday
+24-11-2022,Lachit Divas,,Thursday
+24-11-2022,Martyrdom of Sri Guru Teg Bahadur Ji,,Thursday
+28-11-2022,Martyrdom of Sri Guru Teg Bahadur Ji,,Monday
+01-12-2022,State Inauguration Day,,Thursday
+01-12-2022,Indigenous Faith Day,,Thursday
+02-12-2022,Asom Divas,,Friday
+03-12-2022,World Disabled Day,,Saturday
+03-12-2022,Feast of St. Francis Xavier,,Saturday
+12-12-2022,Pa Togan Nengminza Sangma,,Monday
+18-12-2022,Death Anniversary of U SoSo Tham,,Sunday
+18-12-2022,Guru Ghasidas Jayanti,,Sunday
+19-12-2022,Goa Liberation Day,,Monday
+23-12-2022,Christmas Holiday,,Friday
+24-12-2022,Christmas Eve,,Saturday
+25-12-2022,Christmas Day,,Sunday
+26-12-2022,Christmas Holiday,,Monday
+26-12-2022,Christmas Holiday,,Monday
+26-12-2022,Boxing Day,,Monday
+27-12-2022,Christmas Holiday,,Tuesday
+27-12-2022,Christmas Festival,,Tuesday
+28-12-2022,Christmas Holiday,,Wednesday
+29-12-2022,Guru Gobind Singh Jayanti,,Thursday
+29-12-2022,Christmas Holiday,,Thursday
+30-12-2022,Christmas Holiday,,Friday
+30-12-2022,Tamu Lhosar,,Friday
+30-12-2022,U Kiang Nangbah,,Friday
+31-12-2022,New Year's Eve,,Saturday
+31-12-2022,Christmas Holiday,,Saturday
+01-01-2023,New Year's Day,,
+14-01-2023,Makar Sankranti,,
+14-01-2023,Lohri,,
+15-01-2023,Pongal,,
+22-01-2023,Lunar New Year,,
+26-01-2023,Republic Day,,
+26-01-2023,Vasant Panchami,,
+05-02-2023,Guru Ravidas Jayanti,,
+05-02-2023,Hazarat Ali's Birthday,,
+14-02-2023,Valentine's Day,,
+15-02-2023,Maharishi Dayanand Saraswati Jayanti,,
+18-02-2023,Maha Shivaratri/Shivaratri,,
+19-02-2023,Shivaji Jayanti,,
+07-03-2023,Dolyatra,,
+07-03-2023,Holika Dahana,,
+08-03-2023,Holi,,
+21-03-2023,March Equinox,,
+22-03-2023,Chaitra Sukhladi,,
+22-03-2023,Ugadi,,
+22-03-2023,Gudi Padwa,,
+24-03-2023,Ramadan Start,,
+30-03-2023,Rama Navami,,
+04-04-2023,Mahavir Jayanti,,
+06-04-2023,First day of Passover,,
+06-04-2023,Maundy Thursday,,
+07-04-2023,Good Friday,,
+09-04-2023,Easter Day,,
+14-04-2023,Vaisakhi,,
+14-04-2023,Ambedkar Jayanti,,
+14-04-2023,Ambedkar Jayanti,,
+15-04-2023,Mesadi / Vaisakhadi,,
+21-04-2023,Jamat Ul-Vida,,
+22-04-2023,Ramzan Id/Eid-ul-Fitar,,
+22-04-2023,Ramzan Id/Eid-ul-Fitar,,
+01-05-2023,International Worker's Day,,
+05-05-2023,Buddha Purnima/Vesak,,
+09-05-2023,Birthday of Rabindranath,,
+14-05-2023,Mother's Day,,
+18-06-2023,Father's Day,,
+20-06-2023,Rath Yatra,,
+21-06-2023,June Solstice,,
+29-06-2023,Bakrid/Eid ul-Adha,,
+03-07-2023,Guru Purnima,,
+29-07-2023,Muharram/Ashura,,
+06-08-2023,Friendship Day,,
+15-08-2023,Independence Day,,
+16-08-2023,Parsi New Year,,
+20-08-2023,Vinayaka Chathurthi,,
+29-08-2023,Onam,,
+30-08-2023,Raksha Bandhan (Rakhi),,
+06-09-2023,Janmashtami (Smarta),,
+07-09-2023,Janmashtami,,
+19-09-2023,Ganesh Chaturthi/Vinayaka Chaturthi,,
+23-09-2023,September Equinox,,
+28-09-2023,Milad un-Nabi/Id-e-Milad,,
+02-10-2023,Mahatma Gandhi Jayanti,,
+15-10-2023,First Day of Sharad Navratri,,
+20-10-2023,First Day of Durga Puja Festivities,,
+21-10-2023,Maha Saptami,,
+22-10-2023,Maha Ashtami,,
+23-10-2023,Maha Navami,,
+24-10-2023,Dussehra,,
+28-10-2023,Maharishi Valmiki Jayanti,,
+31-10-2023,Halloween,,
+01-11-2023,Karaka Chaturthi (Karva Chauth),,
+12-11-2023,Naraka Chaturdasi,,
+12-11-2023,Diwali/Deepavali,,
+13-11-2023,Govardhan Puja,,
+15-11-2023,Bhai Duj,,
+19-11-2023,Chhat Puja (Pratihar Sashthi/Surya Sashthi),,
+24-11-2023,Guru Tegh Bahadur's Martyrdom Day,,
+27-11-2023,Guru Nanak Jayanti,,
+08-12-2023,First Day of Hanukkah,,
+15-12-2023,Last day of Hanukkah,,
+22-12-2023,December Solstice,,
+24-12-2023,Christmas Eve,,
+25-12-2023,Christmas,,
+31-12-2023,New Year's Eve,,
